@@ -1,0 +1,9 @@
+/CMakeLists.txt
+/cmake-build-debug/
+/.idea/
+/bin/
+*.swp
+*.swo
+*.kdev4
+/.kdev4/
+/.vscode/
