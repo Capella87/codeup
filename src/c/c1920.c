@@ -1,5 +1,6 @@
 // 코드업 1920번 문제 : (재귀함수) 2진수 변환
 // https://codeup.kr/problem.php?id=1920
+// 문제 분류 : 재귀함수, 관리자 추천 문제
 
 #include <stdio.h>
 

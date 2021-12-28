@@ -1,5 +1,6 @@
 // 코드업 1953번 문제 : (재귀함수) 삼각형 출력하기 1
 // https://codeup.kr/problem.php?id=1953
+// 문제 분류 : 재귀함수
 
 #include <stdio.h>
 

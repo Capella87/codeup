@@ -1,5 +1,6 @@
 // 코드업 1905번 문제 : (재귀함수) 1부터 n까지 합 구하기
 // https://codeup.kr/problem.php?id=1905
+// 문제 분류 : 재귀함수, 관계기반 설계
 
 #include <stdio.h>
 
